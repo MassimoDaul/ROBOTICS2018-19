@@ -4,7 +4,7 @@ Please use this repository to upload shared templates for functions that all tea
 Keep specialized and ungeneralized functions on your team's computer. 
 
 
-#Etiquette
+# Etiquette
 
 Make sure files are Robot C
 
